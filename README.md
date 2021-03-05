@@ -21,6 +21,8 @@ Run service in command line. Navigate to *target* directory.
 
 ``` java -jar spring-boot-boilerplate.jar ```
 
+Check http://localhost:8080/v2/api-docs for Swagger API documentation
+
 ### Todos
 
  - [x] Will be add new boilerplate design for other softwares. -> [For Angular]
